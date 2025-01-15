@@ -1,3 +1,4 @@
+HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +49,6 @@ export default tseslint.config({
   },
 })
 ```
+# TallerReact
+Realice el CRUD de la Aplicación Gestión de empleados y departamentos utilizando react router dom, localstorage, react icons, estilos css para los componentes.
+f18ec1f2f60e9ab4fc769ffd05f62bc85861888c
